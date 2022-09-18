@@ -1,0 +1,3 @@
+/mnt/c/Users/kenne/CLionProjects/Data_Structures/New_Code/22s-pa03-KZhang2002/cmake-build-pa03/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kenne/CLionProjects/Data_Structures/New_Code/22s-pa03-KZhang2002/cmake-build-pa03/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kenne/CLionProjects/Data_Structures/New_Code/22s-pa03-KZhang2002/cmake-build-pa03/CMakeFiles/PA03_sorting_mystery.dir
